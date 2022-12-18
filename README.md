@@ -1,4 +1,4 @@
-# cats-vs-dogs-classification-with-CNN-VGG-16
+# cats-vs-dogs-classification-CNN-VGG-16
 
 
 VGG-16 donne une accuracy de 90.44% <br>
